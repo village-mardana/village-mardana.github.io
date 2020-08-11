@@ -11,8 +11,8 @@ email: villagemardana@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  Mardana is a village in the state of Madhya Pradesh located on the banks of the river Narmada in India. The village falls under the Nimar region (pronounced Nimadh/Nimad/Nimarh). The region predominantly speaks the local dialect “Nimadi” and Hindi..
  
-baseurl: "/raa-master"
-url: "/home/ajay/Desktop"
+baseurl: ""
+url: ""
 
 include:
   - .htaccess
