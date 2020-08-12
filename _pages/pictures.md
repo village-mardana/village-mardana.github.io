@@ -12,7 +12,7 @@ Jump to: [ Videos](#videos), [Gallery](#gallery)
 ## Videos
 
 #### Dhaniyar Raja Dance Video :
-<iframe width="390" height="315" src="https://www.youtube.com/embed/d58Dg6TwfpQ"
+<iframe width="320" height="315" src="https://www.youtube.com/embed/d58Dg6TwfpQ"
  frameborder="0" allowfullscreen></iframe>
 
 #### Gallery
