@@ -12,15 +12,15 @@ Jump to [Event](#Event), [Live Telecast](#live)
 
 ## Event
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/NarmadaMahaPuran/poster1.jpeg" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/NarmadaMahaPuran/poster1.jpeg" class="img-responsive" width="100%" style="float: left" />
 </div>
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/NarmadaMahaPuran/poster2.jpeg" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/NarmadaMahaPuran/poster2.jpeg" class="img-responsive" width="100%" style="float: left" />
 </div>
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/NarmadaMahaPuran/poster3.png" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/NarmadaMahaPuran/poster3.png" class="img-responsive" width="100%" style="float: left" />
 </div>
 
 
