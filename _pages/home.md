@@ -7,9 +7,9 @@ permalink: /
 ---
 
 
- **Mardana** is a village in the state of **Madhya Pradesh** located on the banks of the river Narmada in India. The village falls under the **Nimar region** (pronounced Nimadh/Nimad/Nimarh). The region predominantly speaks the local dialect "Nimadi" and Hindi..
+ **ग्राम मर्दाना** भारत में नर्मदा नदी के तट पर स्थित मध्य प्रदेश राज्य का एक छोटा और सुंदर गाँव है। यह गाँव **निमाड़** क्षेत्र के अंतर्गत आता है। यह क्षेत्र मुख्य रूप से स्थानीय बोली **"निमाड़ी"** और हिंदी बोलता है।
 
-A steep climb from the banks of the river Narmada leads to the village with paved streets, gracious courtyards and cascading bougainvillea. Majority of houses are found to be painted turquoise blue, a traditional Nimar colour. And from the walls of each, the Goddess Narmada looks innocently down.
+नर्मदा नदी के तट से एक खड़ी चढ़ाई आपको पक्की गलियों, अनुग्रहपूर्ण आँगन और झरोके वाले छज्जे आपको गाँव की ओर ले जाती है। अधिकांश घरों में **फ़िरोज़ा** नीले रंग का पाया जाता है, जो एक पारंपरिक निमाड़ का रंग है। और प्रत्येक घरो की दीवारों से, देवी नर्मदा अनंत तक बहती हुई नीचे दिखती है।
 
 
 <div class="col-sm-4" markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
@@ -59,7 +59,7 @@ A steep climb from the banks of the river Narmada leads to the village with pave
   </a>
 </div>
 
-Mardana is a large village located in Sanawad tehsil of West Nimar district, Madhya Pradesh with total of around 1014 families residing. The Mardana village has population of 5001 of which 2511 are males while 2490 are females as per Population Census 2011. <a href="https://en.wikipedia.org/wiki/Mardana,_Madhya_Pradesh">[Read More on wiki]</a>
+**ग्राम मर्दाना** मध्य प्रदेश के पश्चिम निमाड़ जिले के **सनावद** तहसील में स्थित एक बड़ा गाँव है जिसमें कुल **1014 परिवार** रहते हैं। जनगणना 2011 के अनुसार मर्दाना गाँव की **जनसंख्या 5001** है, जिसमें 2511 पुरुष हैं जबकि 2490 महिलाएँ हैं।. <a href="https://en.wikipedia.org/wiki/Mardana,_Madhya_Pradesh">[Read More on wiki]</a>
 
 
  **We are looking for passionate volunteers from nearby schools, institutions, and companies to join us !**
