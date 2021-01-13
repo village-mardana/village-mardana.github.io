@@ -3,7 +3,7 @@ title: "Events @ Village_Mardana"
 layout: gridlay
 excerpt: "Events @ Village_Mardana"
 sitemap: false
-permalink: /objectives/
+permalink: /events/
 ---
 
 
