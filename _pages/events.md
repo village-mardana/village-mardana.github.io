@@ -7,57 +7,21 @@ permalink: /events/
 ---
 
 
-# Objectives and Plan of action
-Jump to [Objectives](#objectives), [Plan of Action](#planning)
+# माँ नर्मदा महापुराण @ ग्राम- मरदाना  
+Jump to [Event](#Event), [Live Telecast](#live)
 
-## Objectives
-
-{% assign number_printed = 0 %}
-{% for publi in site.data.objlist %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-12 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
+## Event
+<div class="col-sm-3 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/NarmadaMahaPuran/poster1.jpeg" class="img-responsive" width="95%" style="float: left" />
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
+<div class="col-sm-3 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/NarmadaMahaPuran/poster2.jpeg" class="img-responsive" width="95%" style="float: left" />
 </div>
-{% endif %}
 
-{% endif %}
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+<div class="col-sm-3 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/NarmadaMahaPuran/poster3.png" class="img-responsive" width="95%" style="float: left" />
 </div>
-{% endif %}
 
-<p> &nbsp; </p>
 
-<hr>
-
-# Planning
-Jump back to [Objectives](#objectives)
-## Plan of action
-
-{% for publi in site.data.objlist %}
-{% if publi.highlight == 0 %}
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-{% endif %}
-{% endfor %}
+# Live
