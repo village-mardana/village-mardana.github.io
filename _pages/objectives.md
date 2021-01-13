@@ -1,7 +1,7 @@
 ---
-title: "RAA @ IITi - Objectives"
+title: "Events @ Village_Mardana"
 layout: gridlay
-excerpt: "RAA @IITi -- Objectives."
+excerpt: "Events @ Village_Mardana"
 sitemap: false
 permalink: /objectives/
 ---
