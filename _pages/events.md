@@ -25,6 +25,4 @@ Jump to [Event](#Event), [Live Telecast](#सीधा_प्रसारण )
 
 
 # सीधा_प्रसारण 
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v9.0" nonce="YXxfAQm5"></script>
-<div class="fb-page" data-href="https://www.facebook.com/VillageMardana/" data-tabs="events" data-width="" data-height="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><blockquote cite="https://www.facebook.com/VillageMardana/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/VillageMardana/">Mardana, Madhya Pradesh</a></blockquote></div>
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FVillageMardana%2Fvideos%2F414827473108839%2F&show_text=false&width=267" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
