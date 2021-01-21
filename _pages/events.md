@@ -14,7 +14,7 @@ Jump to [Event](#Event), [Live Telecast](#सीधा_प्रसारण )
 <div class="col-sm-3 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/NarmadaMahaPuran/poster1.jpeg" class="img-responsive" width="100%" style="float: left" />
 </div>
-
+<hr>
 <!--div class="col-sm-3 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/NarmadaMahaPuran/poster2.jpeg" class="img-responsive" width="100%" style="float: left" />
 </div>
