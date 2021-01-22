@@ -15,7 +15,7 @@ Jump to [Event](#Event), [Live Telecast](#सीधा_प्रसारण )
 #### आज का प्रसारण 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FVillageMardana%2Fvideos%2F490695301894437%2F&show_text=false&width=560" width="" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 <br>
-अगर लिंक नहीं काम कर रही हो तो कृपया इस link को click करे  https://fb.com/VillageMardana/Videos  
+अगर लिंक काम नहीं कर रही हो तो कृपया इस link को click करे <a href='https://fb.com/VillageMardana/Videos'> https://fb.com/VillageMardana/Videos</a> 
 <hr>
 <hr>
 
