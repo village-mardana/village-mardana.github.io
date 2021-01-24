@@ -19,7 +19,7 @@ Jump to [Event](#Event), [Live Telecast](#सीधा_प्रसारण )
 अगर लिंक काम नहीं कर रही हो तो कृपया इस link को click करे <a href='https://www.facebook.com/VillageMardana/live/'> https://fb.com/VillageMardana/live</a> 
 <hr>
 <hr>
-### तारीख 22 का प्रसारण 
+### तारीख 23 का प्रसारण 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FVillageMardana%2Fvideos%2F1123299681462724%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 <hr>
 
