@@ -1,7 +1,7 @@
 ---
 title: "Mayurana-PhotographyClub"
 layout: textlay
-excerpt: "Mayurana-PhotographyClub-Mardana."
+excerpt: "Mayurana-PhotographyClub@VillageMardana."
 sitemap: false
 permalink: /Mayurana-PhotographyClub.html
 ---
