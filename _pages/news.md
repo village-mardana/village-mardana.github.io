@@ -5,7 +5,10 @@ excerpt: "News-Local."
 sitemap: false
 permalink: /news.html
 ---
+<meta property="og:title" content="Khargone District- Local News">
+<meta property="og:description" content="Khargone District- Local News">
 
+<meta property="og:image" content="https://village-mardana.github.io/images/slider7001400/pic1.jpg">
 # Local News(Khargone)
 [Loading....]
 
