@@ -14,3 +14,4 @@ permalink: /news.html
 
 </div>
 
+source -https://www.dprmp.org/DistrictNews.aspx?disid=22&disname=Khargone
