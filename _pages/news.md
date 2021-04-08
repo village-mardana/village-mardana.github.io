@@ -10,7 +10,7 @@ permalink: /news.html
 [Loading....]
 
  <div id="newsfeed" class="" >
-  <embed src="https://www.dprmp.org/DistrictNews.aspx?disid=22&disname=Khargone" style="width:360px; height: 700px;">
+  <embed src="https://www.dprmp.org/DistrictNews.aspx?disid=22&disname=Khargone" style="width:400px; height: 700px;">
 
 </div>
 
