@@ -10,9 +10,7 @@ permalink: /news.html
 [Loading....]
 
  <div id="newsfeed" class="" >
-  <iframe src="/https://www.dprmp.org/DistrictNews.aspx?disid=22&disname=Khargone" width="100%" height="400">
-  <p>Your browser does not support iframes.</p>
-</iframe>
+  <<embed src="https://www.dprmp.org/DistrictNews.aspx?disid=22&disname=Khargone" style="width:100%; height: 300px;">
 
 </div>
 
