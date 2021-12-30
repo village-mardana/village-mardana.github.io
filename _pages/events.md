@@ -9,6 +9,11 @@ permalink: /events/
 
 # श्रीमद भागवत कथा @ ग्राम- मरदाना  
 Jump to [Event](#Event), [Live Telecast](#सीधा_प्रसारण )
+<hr>
+<div class="col-sm-3 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/BhagwatKatha/poster1.jpeg" class="img-responsive" width="100%" style="float: left" />
+</div>
+<hr>
 # सीधा_प्रसारण
 ### आज का प्रसारण- Coming soon
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FVillageMardana%2Fvideos%2F1077657836129444%2F&show_text=true&width=267&t=0" width="267" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
@@ -17,6 +22,7 @@ Jump to [Event](#Event), [Live Telecast](#सीधा_प्रसारण )
 
 <hr>
 <hr>
+
 
 # माँ नर्मदा महापुराण @ ग्राम- मरदाना  
 Jump to [Event](#Event), [Live Telecast](#सीधा_प्रसारण2 )
