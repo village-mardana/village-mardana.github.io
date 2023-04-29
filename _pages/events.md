@@ -11,7 +11,7 @@ permalink: /events/
 Jump to [सीधा_प्रसारण](#सीधा_प्रसारण )
 <hr>
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/BhagwatKatha/poster1.jpeg" class="img-responsive" width="100%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/ramleela-01-01-01.png" class="img-responsive" width="100%" style="float: left" />
 </div>
 ### आज का प्रसारण
 <hr>
