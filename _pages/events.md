@@ -7,6 +7,18 @@ permalink: /events/
 ---
 
 
+# रामलीला आयोजन @ ग्राम- मरदाना  
+Jump to [सीधा_प्रसारण](#सीधा_प्रसारण )
+<hr>
+<div class="col-sm-3 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/BhagwatKatha/poster1.jpeg" class="img-responsive" width="100%" style="float: left" />
+</div>
+### आज का प्रसारण
+<hr>
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FVillageMardana%2Fvideos%2F256745960151275%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
+
 # श्रीमद भागवत कथा @ ग्राम- मरदाना  
 Jump to [सीधा_प्रसारण](#सीधा_प्रसारण )
 <hr>
